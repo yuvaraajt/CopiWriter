@@ -84,7 +84,7 @@ function App() {
 
   <div className="hero-copy reveal">
     <p className="eyebrow">
-      <span></span> B2B CONTENT · AI SAAS · TECHNOLOGY
+      <span></span> B2B CONTENT · AI SAAS · TECHNOLOGY · NEUROTECH
     </p>
 
     <h1>
