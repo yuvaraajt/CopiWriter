@@ -55,10 +55,9 @@ The website is deployed and publicly accessible.
 ## 📸 Screenshots
 
 ### Homepage
-
-<<<<<<< HEAD
-=======
 ![CopiWriter Homepage](screenshots/Homepage.png)
+### Services
 ![CopiWriter Homepage](screenshots/Services1.png)
 ![CopiWriter Homepage](screenshots/Services2.png)
+### Contacts
 ![CopiWriter Homepage](screenshots/Contacts.png)
