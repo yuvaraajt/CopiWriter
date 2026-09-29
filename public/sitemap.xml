@@ -1,16 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
->
-  <url>
-    <loc>https://copiwriter.com/</loc>
-  </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <url>
-    <loc>https://copiwriter.com/services</loc>
+    <loc>https://copi-writer.vercel.app/</loc>
   </url>
 
-  <url>
-    <loc>https://copiwriter.com/blogs</loc>
-  </url>
 </urlset>
