@@ -51,4 +51,4 @@ The website is deployed and publicly accessible.
 
 ### Homepage
 
-![CopiWriter Homepage](screenshots/homepage.png)
+![CopiWriter Homepage](screenshots/Homepage.png)
