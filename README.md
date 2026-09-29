@@ -45,3 +45,10 @@ The website is deployed and publicly accessible.
 - Optimized website structure and SEO
 - Configured production deployment
 - Improved responsive layouts and positioning
+
+  
+## 📸 Screenshots
+
+### Homepage
+
+![CopiWriter Homepage](screenshots/homepage.png)
