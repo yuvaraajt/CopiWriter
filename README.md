@@ -20,3 +20,8 @@ npm.cmd run dev
 
 ## Add blogs
 Edit the `blogs` array near the top of `src/main.jsx`.
+## 📸 Screenshots
+
+### Homepage
+
+![CopiWriter Homepage](screenshots/homepage.png)
