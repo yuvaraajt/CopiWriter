@@ -7,7 +7,7 @@ AI SaaS, technology, cybersecurity, and emerging deep-tech businesses.
 
 https://copi-writer.vercel.app
 
-<<<<<<< HEAD
+
 ## Add blogs
 Edit the `blogs` array near the top of `src/main.jsx`.
 =======
