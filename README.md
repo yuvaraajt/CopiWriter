@@ -51,13 +51,14 @@ The website is deployed and publicly accessible.
 - Improved responsive layouts and positioning
 
   
->>>>>>> 7c5a5e0689d8c6025db8c55c8d99cba8cb58c860
+
 ## 📸 Screenshots
 
 ### Homepage
 
 <<<<<<< HEAD
-![CopiWriter Homepage](screenshots/homepage.png)
 =======
 ![CopiWriter Homepage](screenshots/Homepage.png)
->>>>>>> 7c5a5e0689d8c6025db8c55c8d99cba8cb58c860
+![CopiWriter Homepage](screenshots/Services1.png)
+![CopiWriter Homepage](screenshots/Services2.png)
+![CopiWriter Homepage](screenshots/Contacts.png)
