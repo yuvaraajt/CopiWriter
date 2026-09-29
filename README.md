@@ -8,7 +8,6 @@ AI SaaS, technology, cybersecurity, and emerging deep-tech businesses.
 https://copi-writer.vercel.app
 
 
-=======
 ## 🎯 Project Overview
 
 CopiWriter is a B2B content platform designed for technology-focused
