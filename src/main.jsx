@@ -142,7 +142,7 @@ function App() {
               <h2>Technology is complex.<br /><em>Your communication doesn't have to be.</em></h2>
               <div>
                 <p>Copiwriter.in is a B2B content and copywriting agency focused on AI SaaS and technology businesses.</p>
-                <p>We help complex technology businesses communicate their products, ideas and value propositions clearly, engagingly and persuasively — without making the content feel overly technical or generic.</p>
+                <p>We help B2B AI SaaS, technology, neurotech and cybersecurity businesses turn complex ideas into clear, compelling content that people understand.</p>
                 <p>Our focus is on bridging the gap between technical complexity and human understanding.</p>
               </div>
             </div>
