@@ -64,7 +64,7 @@ function App() {
     <div className="site">
       <header className="nav">
         <button className="logo-button" onClick={() => navigate("home")} aria-label="Copiwriter home">
-          <img src="/logo.jpg" alt="Copiwriter.in" className="nav-logo" />
+          <img src="/copiwriter-logo.png" alt="Copiwriter.in" className="nav-logo" />
         </button>
         <nav>
           <button className={page === "home" ? "active" : ""} onClick={() => navigate("home")}>Home</button>
