@@ -264,7 +264,7 @@ function App() {
 
       <footer className="footer">
         <div>
-          <button className="logo-button footer-logo-button" onClick={() => navigate("home")}><img src="/logo.jpg" alt="Copiwriter.in" className="footer-logo" /></button>
+          <button className="logo-button footer-logo-button" onClick={() => navigate("home")}><img src="/copiwriter-logo.png" alt="Copiwriter.in" className="footer-logo" /></button>
           <p>{COMPANY.tagline}<br />{COMPANY.motto}</p>
         </div>
         <div className="footer-links">
